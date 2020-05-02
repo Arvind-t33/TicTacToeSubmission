@@ -1,0 +1,15 @@
+Requirements for completion of Tic Tac Toe GUI - keeping simple, making just 3x3 (20 points)
+
+If you already have a GUI-based Tic Tac Toe and have showed that to me in class you can submit that. However, if you have not showed or submitted your own GUI before, to get any extra credit you must adapt the code that has been given to you.
+
+Changes to make in incomplete code:
+- Add code to make switch from X to O
+- Add code to not allow to click on square when already been chosen by X or O
+- Add code to check for winner and, if there is a winner, end game (pop up window says who wins, do you want to play again?)
+
+For Extra Credit (you do not have to do all 3 to get extra credit, you can do 1, 2, or all 3 parts):
+- (+4 points) Add code to choose 1 player (vs AI) or 2 player (vs another human). Can be through separate window, radio buttons, etc. AI can be random, still must be able to say winner for X or O.
+- (+4 points) Add code to make AI play using advanced logic (not just random)
+- (+2 points) Add code to allow user to select size of the board
+
+For submission, submit link to your Repl.it or GitHub repository (wherever you have your code stored)

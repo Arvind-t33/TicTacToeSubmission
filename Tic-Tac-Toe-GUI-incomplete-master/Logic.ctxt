@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Logic
+comment1.params=rowMove\ colMove\ move\ font\ square\ startingPlayer
+comment1.target=void\ getMove(int,\ int,\ int,\ java.awt.Font,\ javax.swing.JButton[][],\ java.lang.String)
+comment2.params=pnlSouth\ pnlPlayingField
+comment2.target=void\ showGame(javax.swing.JPanel,\ javax.swing.JPanel)
+comment3.params=pnlSouth\ pnlTop\ pnlNewGame\ pnlPlayingField\ pnlBottom\ radioPanel
+comment3.target=void\ clearPanelSouth(javax.swing.JPanel,\ javax.swing.JPanel,\ javax.swing.JPanel,\ javax.swing.JPanel,\ javax.swing.JPanel,\ javax.swing.JPanel)
+numComments=4

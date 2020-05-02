@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=
+comment1.target=GUI()
+comment2.params=col
+comment2.target=boolean\ col(int)
+comment3.params=row
+comment3.target=boolean\ row(int)
+comment4.params=
+comment4.target=boolean\ dia()
+comment5.params=click
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ redrawGameBoard()
+comment6.text=\r\n\ \ \ \ ----------------------------------\r\n\ \ \ \ Start\ of\ all\ the\ other\ methods.\r\n\ \ \ \ ----------------------------------\r\n
+numComments=7
